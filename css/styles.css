@@ -173,6 +173,10 @@ header {
 
 /* Category Page */ 
 
+.back-navigation {
+  padding: 25px 0;
+}
+
 .resource-section {
 	border-bottom: 1px solid #EBEAEB;
 	padding: 25px 0;
